@@ -19,5 +19,5 @@ module.exports = {
     }
 };
 
-// npm i -D babel-core babel-loader babel-preset-es2015 babel-preset-react react react-dom
+// $ npm i -D babel-core babel-loader babel-preset-es2015 babel-preset-react react react-dom
 // $ webpack-dev-server --hot --inline
